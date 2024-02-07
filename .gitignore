@@ -1,0 +1,13 @@
+# GoLand-specific files
+.idea/
+*.iml
+
+# Compiled binary files
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Dependency directories
+vendor/
